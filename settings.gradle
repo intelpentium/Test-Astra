@@ -1,0 +1,2 @@
+rootProject.name = "Test Android Astra"
+include ':app'
